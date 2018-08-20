@@ -1,0 +1,1 @@
+select substr('Saranya',1,5) from dual;
